@@ -6,4 +6,4 @@
 [QBI lectures spring semester 2021](https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/)
 
 ## Machine learning to segment neutron images
-[LENS machine learning lecture](https://imaginglectures.github.io/MLSegmentation4NI/)
+[LENS machine learning lecture 2021](https://imaginglectures.github.io/MLSegmentation4NI/)
