@@ -1,6 +1,6 @@
 # Big Quantitative Imaging
 ## Current lecture
-QBI lectures spring semester [2023](https://imaginglectures.github.io/Quantitative-Big-Imaging-2023/).
+QBI lectures spring semester [2024](https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/).
 
 ## Previous years
 QBI lectures spring semester [2020](https://imaginglectures.github.io/Quantitative-Big-Imaging-2020/), [2021](https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/), [2022](https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/)
