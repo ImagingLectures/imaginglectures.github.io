@@ -10,6 +10,7 @@ QBI lectures spring semester [2020](https://imaginglectures.github.io/Quantitati
 [LENS machine learning lecture 2021](https://imaginglectures.github.io/MLSegmentation4NI/)
 
 ## Introduction to image processing
+[AUNIRA School, Prague, 2025](https://github.com/ImagingLectures/Aunira2025-ImageProcessing) a condensed version of the first four QBI lectures.
 [MNT lectures fall semester 2019](https://imaginglectures.github.io/MNT_Lectures2019/)
 
 ## Tutorials for computed tomography
